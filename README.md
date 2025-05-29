@@ -10,7 +10,7 @@ Ce projet est un prototype d'assistant médical basé sur des techniques de NLP 
 - Recherche sémantique dans un corpus d’articles médicaux issus de PubMed.
 - Résumé automatique des pathologies probables avec mention des sources (PMID, titre, auteurs).
 - Interface console interactive.
-- Compte rendu effectuer par une IA pour aider à la compréhension du
+- Compte rendu effectuer par une IA pour aider à la compréhension des articles.
 ---
 
 ##  Technologies utilisées
